@@ -35,4 +35,4 @@ gcc arvore_avl.c -o arvore_avl
 
 - SZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de Dados e Seus Algoritmos. 3. ed. Rio de Janeiro: LTC, 2010.
 
-- DOCUMENTAÇÃO C++. std::map. Disponível em: https://en.cppreference.com/w/cpp/container/map. Acesso em: 03 jul. 2026.
+- DOCUMENTAÇÃO C++. std::map. Disponível em: https://en.cppreference.com/w/cpp/container/map. Acesso em: 28 jun. 2026.
