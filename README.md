@@ -7,7 +7,7 @@ Repositório destinado à atividade da disciplina de **Estrutura de Dados**.
 * João Marcos de Jesus Santos
 
 ## 📺 Demonstração em Vídeo
-Clique na imagem abaixo para assistir à nossa apresentação completa no YouTube, contendo a explicação teórica, aplicações práticas e a demonstração da execução deste código:
+Clique abaixo para assistir à nossa apresentação completa no YouTube, contendo a explicação teórica, aplicações práticas e a demonstração da execução deste código:
 
 [clique aqui para acessar o vídeo](https://youtu.be/3jpzkFUXhds?si=NSYbxWy2oBzBqEiC)
 
