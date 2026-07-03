@@ -9,9 +9,7 @@ Repositório destinado à atividade da disciplina de **Estrutura de Dados**.
 ## 📺 Demonstração em Vídeo
 Clique na imagem abaixo para assistir à nossa apresentação completa no YouTube, contendo a explicação teórica, aplicações práticas e a demonstração da execução deste código:
 
-[![Assistir ao Vídeo da Apresentação](https://img.youtube.com/vi/[ID_DO_VIDEO]/maxresdefault.jpg)]([https://youtu.be/3jpzkFUXhds?si=NSYbxWy2oBzBqEiC] "Clique para assistir no YouTube")
-
-*(Caso a imagem não carregue, [clique aqui para acessar o vídeo]([(https://youtu.be/3jpzkFUXhds?si=NSYbxWy2oBzBqEiC)]))*
+[clique aqui para acessar o vídeo](https://youtu.be/3jpzkFUXhds?si=NSYbxWy2oBzBqEiC)*
 
 ---
 
